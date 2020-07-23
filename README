@@ -1,0 +1,22 @@
+Authors:
+ - Jacob Quon
+
+Description:
+This is a dyanmic web (HTTP 1.1) server that mimics the Spark Framework API. It is 
+run through command line.
+
+Within TestApplication.java, the user can implement applications using the Spark
+Framework API (A basic example is given). 
+	- Users can register route handlers, the paths for which can contain wildcards.
+	- Users can use request and response within the route handlers objects to pull 
+	  information from the request and change the output of the response.
+	- Users can access query parameters. 
+	- Users can register filters.
+	- Users can create cookies and sessions.
+	- Users redirect requests.
+	- Users can change the port on which the server runs.
+
+Instructions for Running:
+	1. Compile using "mvn clean install"
+	2. Run the created jar in the target directory
+

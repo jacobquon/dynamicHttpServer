@@ -1,0 +1,17 @@
+edu/upenn/cis455/hw1/interfaces/Request.class
+edu/upenn/cis455/hw1/interfaces/Filter.class
+edu/upenn/cis455/hw1/FilterTriple.class
+edu/upenn/cis455/hw1/MyRequest.class
+edu/upenn/cis455/hw1/interfaces/WebService.class
+edu/upenn/cis455/hw1/MyWebService.class
+edu/upenn/cis455/hw1/MyResponse.class
+edu/upenn/cis455/hw1/MySession.class
+edu/upenn/cis455/hw1/Worker.class
+edu/upenn/cis455/hw1/WebServiceController.class
+edu/upenn/cis455/hw1/interfaces/HaltException.class
+edu/upenn/cis455/hw1/BlockingQueue.class
+edu/upenn/cis455/hw1/RouteTriple.class
+edu/upenn/cis455/hw1/interfaces/Route.class
+TestApplication.class
+edu/upenn/cis455/hw1/interfaces/Session.class
+edu/upenn/cis455/hw1/interfaces/Response.class
